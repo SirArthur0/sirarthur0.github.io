@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Arthu
- *
- */
-module ampp {
-}
